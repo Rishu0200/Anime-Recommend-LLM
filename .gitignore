@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints
+.DS_Store
+ANIME_RECOMMENDATION_SYSTEM_USING_LLM.egg-info/
+*.pyc
+logs/
+chroma_db/chroma.sqlite3
